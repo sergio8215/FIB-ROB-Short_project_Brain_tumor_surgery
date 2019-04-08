@@ -1,5 +1,5 @@
 # Manipulator Short project: Skull tumor surgery
-## Introduction A team of surgeons specialized in surgery of tumor skull and Computer Science students wants to simulate the robotics environment of the operating room to learn how some tasks can be done. The surgeons make an introduction of Dicom images to the students and pass them a folder with 112 images taken of a patient’s skull with three fiducials for registering Dicom images with the Robot Reference Frame. The surgeons indicate in which images appear the fiducials (19 - 48 - 81) They recommend use as Dicom viewer: https://www.imaios.com/en/Imaios-Dicom-Viewer.
+ Introduction A team of surgeons specialized in surgery of tumor skull and Computer Science students wants to simulate the robotics environment of the operating room to learn how some tasks can be done. The surgeons make an introduction of Dicom images to the students and pass them a folder with 112 images taken of a patient’s skull with three fiducials for registering Dicom images with the Robot Reference Frame. The surgeons indicate in which images appear the fiducials (19 - 48 - 81) They recommend use as Dicom viewer: https://www.imaios.com/en/Imaios-Dicom-Viewer.
 The surgeons explain to the students the strategy to be follow: first it is needed to known the kind of tumor, All of us hope, the tumor will be benign. There will be then two options: remove the tumor or to burn it.
 
 ## Robotics Tasks explanation
@@ -19,7 +19,7 @@ c) Burn the tumor with a laser tool. The hole is no necessary to be big, the sur
 radius of the tumor equivalent sphere. To burn the tumor, assume the tool irradiate heat like a
 sphere shape of 4mm radius. Take care not burn healthy biological tissues.
 
-List of to do:
+### List of to do:
 
 The Robotic environment must contain:
 
